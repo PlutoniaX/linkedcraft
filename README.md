@@ -1,6 +1,6 @@
 ## LinkedCraft - LinkedIn Post Reply Generator
 
-This Python Flask application helps you draft replies to the latest LinkedIn posts from your connections. It's designed for users who want to stay engaged with their network and respond thoughtfully to shared content.
+This Python Flask application helps you get the latest posts from specified LinkedIn profiles and draft replies using AI. It's designed for users who want to stay engaged with their network and respond thoughtfully and efficiently to shared content.
 
 ### How it Works
 
@@ -16,7 +16,7 @@ This Python Flask application helps you draft replies to the latest LinkedIn pos
 
 ### Installation and Setup
 
-1. **Clone the repository:** `git clone <repository_url>`
+1. **Clone the repository:** `git clone https://github.com/PlutoniaX/linkedcraft.git`
 2. **Install dependencies:** `pip install -r requirements.txt`
 3. **Create a .env file:** Copy the `.env.example` file and rename it to `.env`. Add your LinkedIn username and password as `LINKEDIN_UNAME` and `LINKEDIN_PW` respectively.
 4. **Run the application:** `python run.py`
